@@ -71,10 +71,10 @@ To visualize and analyze pizza sales across various dimensions such as time, pro
 ## 🖼️ Screenshots
 
 ### 🔹 Dashboard Overview
-![Pizza Sales Dashboard - Overview]([./screenshots/Screenshot%202025-07-07%20195723.png](https://github.com/swatiparashar/Dashboard/blob/main/Screenshot%202025-07-07%20195723.png))
+![Pizza Sales Dashboard - Overview]((https://github.com/swatiparashar/Dashboard/blob/main/Screenshot%202025-07-07%20195723.png))
 
 ### 🔹 Best/Worst Seller Insights
-![Pizza Sales Dashboard - Best/Worst Sellers]([./screenshots/Screenshot%202025-07-07%20195743.png](https://github.com/swatiparashar/Dashboard/blob/main/Screenshot%202025-07-07%20195743.png))
+![Pizza Sales Dashboard - Best/Worst Sellers]((https://github.com/swatiparashar/Dashboard/blob/main/Screenshot%202025-07-07%20195743.png))
 
 
 
